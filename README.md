@@ -1,16 +1,9 @@
-# projetorestaurante
+# Cardapio.flutter
+Um pequeno cardapio feito com Flutter. A ideia é deixar salvo um exemplo de ListView.Builder para consulta.
+'''
+ Layout de exemplo:
+''' 
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Matheus-commit/Cardapio.flutter/assets/80404411/abcf5997-e688-4737-9fbd-e4d69bd06079)
